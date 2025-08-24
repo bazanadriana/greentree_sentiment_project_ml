@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+*.DS_Store
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+.notebooks_cache/
+*.nbconvert.ipynb
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment variables
+.env
+.env.*
+
+# Outputs
+outputs/
+visualizations/
+*.parquet
+*.csv
+*.xlsx
+
+# Build / distribution
+build/
+dist/
+*.egg-info/

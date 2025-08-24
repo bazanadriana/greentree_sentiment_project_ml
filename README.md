@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Greentree Sentiment Project (LLM Practical)
 
 This repository contains the implementation for the Employee Sentiment Analysis practical assessment. It performs:
@@ -89,3 +90,6 @@ View Outputs
 Processed data in outputs/
 
 Charts in visualizations/
+=======
+# greentree_sentiment_project_ml
+>>>>>>> 4b8129fb885f3acc927553e82ec8b888d83168a4
